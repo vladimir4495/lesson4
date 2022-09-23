@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
+body {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: regular;
+  font-display: swap;
+}
+img {
+  max-width: 600px;
+}
+
+.mega-style .satisfy p {
+  color: rgba(137, 43, 226, 0.858);
+}
+.girls-in-sport span {
+  color: brown;
+}
+
+.cult {
+  color: chartreuse;
+}
+
+.soar p {
+  font-size: 30px;
+}
+
+.soar img {
+  width: 500px;
+}
+.shorts p {
+  font-size: 25px;
+  color: blue;
+}
+.shorts img {
+  width: 250px;
+}
+.active p {
+  color: rgba(220, 103, 20, 0.612);
+}
